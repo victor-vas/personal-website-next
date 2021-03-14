@@ -31,6 +31,11 @@ const Portfolio = () => {
           imgSrc="https://res.cloudinary.com/dg4rnkej8/image/upload/v1613490793/portfolio/search-github-users_bmg48h.png"
           title="Github Users"
         />
+        <Card
+          href="https://my-trips-victor-vas.vercel.app/"
+          imgSrc="https://res.cloudinary.com/dg4rnkej8/image/upload/v1615669898/portfolio/cover_hiwwkk.png"
+          title="My Trips"
+        />
       </S.PortfolioList>
     </S.Portfolio>
   );
