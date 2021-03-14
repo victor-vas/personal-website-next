@@ -33,7 +33,7 @@ const Portfolio = () => {
         />
         <Card
           href="https://my-trips-victor-vas.vercel.app/"
-          imgSrc="https://res.cloudinary.com/dg4rnkej8/image/upload/v1615669898/portfolio/cover_hiwwkk.png"
+          imgSrc="https://res.cloudinary.com/dg4rnkej8/image/upload/v1615764084/portfolio/my-trips_rhevyq.png"
           title="My Trips"
         />
       </S.PortfolioList>
